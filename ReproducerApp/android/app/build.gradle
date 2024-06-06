@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.reproducerapp"
+    namespace "com.bikegadgetmainappexample"
     defaultConfig {
-        applicationId "com.reproducerapp"
+        applicationId "com.bikegadgetmainappexample"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
